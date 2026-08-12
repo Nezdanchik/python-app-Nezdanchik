@@ -133,7 +133,8 @@ dmypy.json
 
 # Coverage reports
 coverage.json
-.coverage*
+.coverage-*
+.coverage
 
 # macOS
 .DS_Store
