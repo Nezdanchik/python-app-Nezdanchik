@@ -130,3 +130,22 @@ dmypy.json
 
 .idea
 *.db
+
+# Coverage reports
+coverage.json
+.coverage*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors
+.vscode/
+*.swp
+*.swo
+*~
+
+# Ruff / linter caches
+.ruff_cache/
